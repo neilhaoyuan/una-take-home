@@ -6,7 +6,8 @@ Una's goal to replace legacy Excel with new AI-powered technology is really inte
 
 This is an interactive dashboard using the StriveSport 2027 workbook data, and in the future, any type of company data!
 
-**Live demo:** URL Coming!
+**Live demo:** 
+URL: https://una-take-home.vercel.app/
 
 ---
 
