@@ -1,12 +1,12 @@
 # StriveSport FP&A Dashboard
 
-Una Platform Analyst take-home assignment, 1 hour, started 12:44 AM ended 1:39 AM.
+Una Platform Analyst take-home assignment, 1 hour, started 12:44 AM ended 1:42 AM.
 
 Una's goal to replace legacy Excel with new AI-powered technology is really interesting. So here's my response, a little MVP that uses AI to power FP&A planning. 
 
 This is an interactive dashboard using the StriveSport 2027 workbook data, and in the future, any type of company data!
 
-**Live demo:** url coming
+**Live demo:** URL Coming!
 
 ---
 
